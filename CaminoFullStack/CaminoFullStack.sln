@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34322.80
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CaminoFullStack", "CaminoFullStack\CaminoFullStack.csproj", "{EB3B84E2-532C-4E2A-A487-69D84FA4E9EB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SintaxisBasica", "SintaxisBasica\SintaxisBasica.csproj", "{FC53F01C-3ED3-40F8-A545-10EEA1EC4A5B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EB3B84E2-532C-4E2A-A487-69D84FA4E9EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB3B84E2-532C-4E2A-A487-69D84FA4E9EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB3B84E2-532C-4E2A-A487-69D84FA4E9EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB3B84E2-532C-4E2A-A487-69D84FA4E9EB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FC53F01C-3ED3-40F8-A545-10EEA1EC4A5B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC53F01C-3ED3-40F8-A545-10EEA1EC4A5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC53F01C-3ED3-40F8-A545-10EEA1EC4A5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC53F01C-3ED3-40F8-A545-10EEA1EC4A5B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B8BCB02E-D3BD-4364-BB95-06461B1CB545}
+	EndGlobalSection
+EndGlobal
