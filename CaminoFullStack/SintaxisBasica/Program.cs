@@ -14,7 +14,7 @@
             int result = x > y ? x : y;
             Console.WriteLine(result);
 
-
+            string unDato = "";
 
             //Variables
             //modificador acceso + tipo de dato + nombreVariable
