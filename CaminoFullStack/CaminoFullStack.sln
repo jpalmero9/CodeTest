@@ -9,6 +9,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SintaxisBasica", "SintaxisB
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Threads", "Threads\Threads.csproj", "{10C53B30-5DFA-47E9-B675-C2B5D134FECD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CaminoFullStackTest", "CaminoFullStackTest\CaminoFullStackTest.csproj", "{BF98FAC2-F909-4014-93D0-6CAAA1684CCB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{10C53B30-5DFA-47E9-B675-C2B5D134FECD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{10C53B30-5DFA-47E9-B675-C2B5D134FECD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{10C53B30-5DFA-47E9-B675-C2B5D134FECD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BF98FAC2-F909-4014-93D0-6CAAA1684CCB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF98FAC2-F909-4014-93D0-6CAAA1684CCB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF98FAC2-F909-4014-93D0-6CAAA1684CCB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF98FAC2-F909-4014-93D0-6CAAA1684CCB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
