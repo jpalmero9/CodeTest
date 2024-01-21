@@ -5,7 +5,9 @@ VisualStudioVersion = 17.8.34322.80
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CaminoFullStack", "CaminoFullStack\CaminoFullStack.csproj", "{EB3B84E2-532C-4E2A-A487-69D84FA4E9EB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SintaxisBasica", "SintaxisBasica\SintaxisBasica.csproj", "{FC53F01C-3ED3-40F8-A545-10EEA1EC4A5B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SintaxisBasica", "SintaxisBasica\SintaxisBasica.csproj", "{FC53F01C-3ED3-40F8-A545-10EEA1EC4A5B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Threads", "Threads\Threads.csproj", "{10C53B30-5DFA-47E9-B675-C2B5D134FECD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{FC53F01C-3ED3-40F8-A545-10EEA1EC4A5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FC53F01C-3ED3-40F8-A545-10EEA1EC4A5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FC53F01C-3ED3-40F8-A545-10EEA1EC4A5B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{10C53B30-5DFA-47E9-B675-C2B5D134FECD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10C53B30-5DFA-47E9-B675-C2B5D134FECD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10C53B30-5DFA-47E9-B675-C2B5D134FECD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10C53B30-5DFA-47E9-B675-C2B5D134FECD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
