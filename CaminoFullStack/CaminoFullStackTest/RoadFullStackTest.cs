@@ -1,7 +1,7 @@
 namespace CaminoFullStackTest
 {
     [TestClass]
-    public class UnitTest1
+    public class RoadFullStackTest
     {
         [TestMethod]
         public void TestMethod1()
